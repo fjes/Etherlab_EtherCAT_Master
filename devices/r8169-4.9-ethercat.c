@@ -30,6 +30,7 @@
 #include <linux/pci-aspm.h>
 #include <linux/prefetch.h>
 #include <linux/ipv6.h>
+#include <linux/version.h>
 #include <net/ip6_checksum.h>
 
 #include <asm/io.h>
